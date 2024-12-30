@@ -12,9 +12,9 @@ CrisciShoes is a shop where you can buy your favourite, tailor-made pair of shoe
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 ReactJS
 
 ## Installation
